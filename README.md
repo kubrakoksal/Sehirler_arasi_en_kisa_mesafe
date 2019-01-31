@@ -1,4 +1,4 @@
-# Sehirler_arasi_en_kisa_mesafe
+# Sehirler Arası En Kısa Mesafe
 Programlama Laboratuvarı Projesi</br>
 
 C diliyle dijkstra algoritmasını kullanarak şehirler arası en kısa mesafeyi bulan ve Türkiye haritası üzerinde yolları, mesafeyi hem konsolda hem de allegro kütüphanesini  kullanarak arayüzde gösteren şehirler arası kısa mesafe uygulaması. </br>
